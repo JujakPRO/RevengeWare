@@ -1,2 +1,2 @@
 # RevengeWare
-RevengeWare is a batch file ransomeware. (For individual research, experiment only.)
+RevengeWare is a batch file ransomeware. (For individual research, experimental purposes only.)
